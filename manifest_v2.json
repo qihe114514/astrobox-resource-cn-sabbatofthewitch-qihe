@@ -1,0 +1,44 @@
+{
+  "item": {
+    "id": "cn.sabbatofthewitch.qihe",
+    "restype": "quick_app",
+    "name": "魔女的夜宴",
+    "description": "# 《魔女的夜宴》完整移植版\n## ✨ 移植特性\n- 🖼️ **全CG收录**，支持**左右拖动**浏览\n- 💾 **自动存档**功能，进度无忧\n- ⌨️ **打字机动画**效果，沉浸式体验\n- ▶️ **支持自动播放**\n- 🎨 **CG鉴赏**模式\n- 👆 **长按隐藏菜单**\n---\n## 📢 玩家交流\n**QQ群**：`1105166284`\n---\n## 📖 作品简介\n《魔女的夜宴》是柚子社出品的一款校园恋爱冒险游戏。主人公保科柊史拥有读取他人感情的能力，因而习惯与人保持距离。某天，他在图书室偶然撞见同班同学绫地宁宁不为人知的一面——她竟是一位魔女，为了达成心愿而不断收集“心之碎片”。以此为契机，柊史与宁宁结成了秘密合作关系，并逐渐与开朗的后辈因幡爱瑠、温柔的学姐户隐憧子、笨拙的同班同学椎叶䌷等女孩们拉近距离。在魔法与心意的交错中，一段温暖又略带苦涩的青春故事就此展开。\n> 如有问题可以在评论区或qq群内反馈，一定会修的！",
+    "preview": [
+      "media/band10-4-2026-08-28-19-05-11.png",
+      "media/bandpro-5-2026-08-28-19-16-00.png",
+      "media/band10-4-2026-08-28-19-16-11.png",
+      "media/band10-4-2026-08-28-19-16-17.png"
+    ],
+    "icon": "media/icon_optimized.png",
+    "cover": "media/封面720.png",
+    "author": [
+      {
+        "name": "1146298",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10nfc": {
+      "version": "1.0",
+      "file_name": "downloads/魔女的夜宴-10-release-v15.rpk"
+    },
+    "xmb10p": {
+      "version": "1.0",
+      "file_name": "downloads/魔女的夜宴-9Pro-release-v12.rpk"
+    },
+    "xmb10": {
+      "version": "1.0",
+      "file_name": "downloads/魔女的夜宴-10-release-v15.rpk"
+    },
+    "xmb9p": {
+      "version": "1.0",
+      "file_name": "downloads/魔女的夜宴-9Pro-release-v12.rpk"
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
