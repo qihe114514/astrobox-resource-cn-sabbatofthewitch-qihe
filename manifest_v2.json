@@ -26,16 +26,52 @@
       "file_name": "downloads/魔女的夜宴-10-release-v15.rpk"
     },
     "xmb10p": {
-      "version": "1.0",
-      "file_name": "downloads/魔女的夜宴-9Pro-release-v12.rpk"
+      "version": "1.1",
+      "file_name": "downloads/魔女的夜宴-环9Pro-release-v14.rpk"
     },
     "xmb10": {
       "version": "1.0",
       "file_name": "downloads/魔女的夜宴-10-release-v15.rpk"
     },
     "xmb9p": {
+      "version": "1.1",
+      "file_name": "downloads/魔女的夜宴-环9Pro-release-v14.rpk"
+    },
+    "xmrw5": {
       "version": "1.0",
-      "file_name": "downloads/魔女的夜宴-9Pro-release-v12.rpk"
+      "file_name": "downloads/魔女的夜宴-红米手表5-release-v17.rpk"
+    },
+    "xmrw5xring": {
+      "version": "1.0",
+      "file_name": "downloads/魔女的夜宴-红米手表5-release-v17.rpk"
+    },
+    "xmrw6": {
+      "version": "1.0",
+      "file_name": "downloads/魔女的夜宴-红米手表6-release-v17.rpk"
+    },
+    "xmb9": {
+      "version": "1.0",
+      "file_name": "downloads/魔女的夜宴-小米手环9-release-v15.rpk"
+    },
+    "xmws3": {
+      "version": "1.0",
+      "file_name": "downloads/魔女的夜宴-小米手表S3-release-v17.rpk"
+    },
+    "xmws4xring": {
+      "version": "1.0",
+      "file_name": "downloads/魔女的夜宴-小米手表S4-release-v17.rpk"
+    },
+    "xmws441": {
+      "version": "1.0",
+      "file_name": "downloads/魔女的夜宴-小米手表S4-release-v17.rpk"
+    },
+    "xmws4": {
+      "version": "1.0",
+      "file_name": "downloads/魔女的夜宴-小米手表S4-release-v17.rpk"
+    },
+    "xmws5": {
+      "version": "1.0",
+      "file_name": "downloads/魔女的夜宴-小米手表S5-release-v17.rpk"
     }
   },
   "ext": {
