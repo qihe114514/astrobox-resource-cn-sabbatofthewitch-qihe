@@ -14,7 +14,7 @@
     "cover": "media/封面720.png",
     "author": [
       {
-        "name": "1146298",
+        "name": "其核",
         "bindABAccount": true
       }
     ]
@@ -22,56 +22,147 @@
   "links": [],
   "downloads": {
     "xmb10nfc": {
-      "version": "1.0",
-      "file_name": "downloads/魔女的夜宴-10-release-v15.rpk"
+      "version": "2.0",
+      "file_name": "downloads/环10.rpk",
+      "versionCode": 18,
+      "updatelogs": [
+        {
+          "version": "2.0",
+          "content": "修复部分选项选择后黑屏"
+        }
+      ]
     },
     "xmb10p": {
       "version": "2.0",
-      "file_name": "downloads/魔女的夜宴-环10Pro-release-v15.rpk"
+      "file_name": "downloads/环10Pro.rpk",
+      "versionCode": 18,
+      "updatelogs": [
+        {
+          "version": "2.0",
+          "content": "修复部分选项选择后黑屏"
+        }
+      ]
     },
     "xmb10": {
-      "version": "1.0",
-      "file_name": "downloads/魔女的夜宴-10-release-v15.rpk"
+      "version": "2.0",
+      "file_name": "downloads/环10.rpk",
+      "versionCode": 18,
+      "updatelogs": [
+        {
+          "version": "2.0",
+          "content": "修复部分选项选择后黑屏"
+        }
+      ]
     },
     "xmb9p": {
-      "version": "1.0",
-      "file_name": "downloads/魔女的夜宴-环9Pro-release-v14.rpk"
+      "version": "2.0",
+      "file_name": "downloads/环9Pro.rpk",
+      "versionCode": 17,
+      "updatelogs": [
+        {
+          "version": "2.0",
+          "content": "修复部分选项选择后黑屏"
+        }
+      ]
     },
     "xmrw5": {
-      "version": "1.0",
-      "file_name": "downloads/魔女的夜宴-红米手表5-release-v17.rpk"
+      "version": "2.0",
+      "file_name": "downloads/红米手表5.rpk",
+      "versionCode": 20,
+      "updatelogs": [
+        {
+          "version": "2.0",
+          "content": "修复部分选项选择后黑屏"
+        }
+      ]
     },
     "xmrw5xring": {
-      "version": "1.0",
-      "file_name": "downloads/魔女的夜宴-红米手表5-release-v17.rpk"
+      "version": "2.0",
+      "file_name": "downloads/红米手表5.rpk",
+      "versionCode": 20,
+      "updatelogs": [
+        {
+          "version": "2.0",
+          "content": "修复部分选项选择后黑屏"
+        }
+      ]
     },
     "xmrw6": {
-      "version": "1.0",
-      "file_name": "downloads/魔女的夜宴-红米手表6-release-v17.rpk"
+      "version": "2.0",
+      "file_name": "downloads/红米手表6.rpk",
+      "versionCode": 20,
+      "updatelogs": [
+        {
+          "version": "2.0",
+          "content": "修复部分选项选择后黑屏"
+        }
+      ]
     },
     "xmb9": {
-      "version": "1.0",
-      "file_name": "downloads/魔女的夜宴-小米手环9-release-v15.rpk"
+      "version": "2.0",
+      "file_name": "downloads/小米手环9.rpk",
+      "versionCode": 18,
+      "updatelogs": [
+        {
+          "version": "2.0",
+          "content": "修复部分选项选择后黑屏"
+        }
+      ]
     },
     "xmws3": {
-      "version": "1.0",
-      "file_name": "downloads/魔女的夜宴-小米手表S3-release-v17.rpk"
+      "version": "2.0",
+      "file_name": "downloads/小米手表S3.rpk",
+      "versionCode": 20,
+      "updatelogs": [
+        {
+          "version": "2.0",
+          "content": "修复部分选项选择后黑屏"
+        }
+      ]
     },
     "xmws4xring": {
-      "version": "1.0",
-      "file_name": "downloads/魔女的夜宴-小米手表S4-release-v17.rpk"
+      "version": "2.0",
+      "file_name": "downloads/小米手表S4.rpk",
+      "versionCode": 20,
+      "updatelogs": [
+        {
+          "version": "2.0",
+          "content": "修复部分选项选择后黑屏"
+        }
+      ]
     },
     "xmws441": {
-      "version": "1.0",
-      "file_name": "downloads/魔女的夜宴-小米手表S4-release-v17.rpk"
+      "version": "2.0",
+      "file_name": "downloads/小米手表S4.rpk",
+      "versionCode": 20,
+      "updatelogs": [
+        {
+          "version": "2.0",
+          "content": "修复部分选项选择后黑屏"
+        }
+      ]
     },
     "xmws4": {
-      "version": "1.0",
-      "file_name": "downloads/魔女的夜宴-小米手表S4-release-v17.rpk"
+      "version": "2.0",
+      "file_name": "downloads/小米手表S4.rpk",
+      "versionCode": 20,
+      "updatelogs": [
+        {
+          "version": "2.0",
+          "content": "修复部分选项选择后黑屏"
+        }
+      ]
     },
     "xmws5": {
-      "version": "1.0",
-      "file_name": "downloads/魔女的夜宴-小米手表S5-release-v17.rpk"
+      "version": "2.0",
+      "file_name": "downloads/小米手表S5.rpk",
+      "versionCode": 20,
+      "updatelogs": [
+        {
+          "version": "2.0",
+          "content": "修复部分选项选择后黑屏"
+        }
+      ]
     }
   },
   "ext": {
